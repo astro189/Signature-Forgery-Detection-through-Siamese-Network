@@ -1,0 +1,7 @@
+sign_data
+train_data
+.ipynb_checkpoints
+checkpoints
+SigNet.h5
+Forgery Detection through Siamese Network.ipynb
+README.md
