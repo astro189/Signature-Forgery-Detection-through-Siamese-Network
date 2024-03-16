@@ -1,6 +1,4 @@
 # Signature-Forgery-Detection-through-Siamese-Network
-<<<<<<< HEAD
-
 <h3>What are Siamese Networks?</h3>
 <p>The basic idea behind Siamese networks is to have two identical subnetworks, often called "twins," that share the same architecture and weights. Each input (such as an image, text, or any other data representation) is passed through these twin networks, producing embeddings or feature vectors. These embeddings are then compared using a similarity metric such as Euclidean distance or cosine similarity to determine the similarity or dissimilarity between the inputs.
 
@@ -25,7 +23,3 @@ Siamese networks are trained using pairs of inputs along with their correspondin
 <li>Batch size: 32</li>
 <li>Layer activations: Relu</li>
 
-
-=======
-A robust signature forgery detection model inspired from the original SigNet Paper
->>>>>>> f41b7be ( first commit)
